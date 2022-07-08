@@ -19,6 +19,9 @@ fom your favorite PCB manufacturer.<br>
 - [x] Ordered
 - [x] Assembled
 - [x] Tested
+### Videos
+- [Testing the first revision of the board](https://youtu.be/QcRTDDZ0i-s)
+- [Testing the second revision of the board](https://youtu.be/V18fohn3YzE)
 
 ## 26-313xA
 - [Schematic](pdfs/26-313xA_schematic.pdf)
