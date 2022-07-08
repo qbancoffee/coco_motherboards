@@ -15,14 +15,27 @@ fom your favorite PCB manufacturer.<br>
 - [Board Layout](pdfs/26-302x_layout.pdf)
 - [Rendered Image](images/26-302x_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-302x_ibom.html)
+### Current status
+- [x] Ordered
+- [x] Assembled
+- [x] Tested
+
 ## 26-313xA
 - [Schematic](pdfs/26-313xA_schematic.pdf)
 - [Board Layout](pdfs/26-313xA_layout.pdf)
 - [Rendered Image](images/26-313xA_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-313xA_ibom.html)
+### Current status
+- [x] Ordered
+- [ ] Assembled
+- [ ] Tested
 
 ## 26-3334
 - [Schematic](pdfs/26-3334_schematic.pdf)
 - [Board Layout](pdfs/26-3334_layout.pdf)
 - [Rendered Image](images/26-3334_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-3334_ibom.html)
+### Current status
+- [x] Ordered
+- [x] Assembled
+- [x] Tested
