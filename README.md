@@ -51,11 +51,12 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Board Layout](pdfs/26-3334_layout.pdf)
 - [Rendered Image](images/26-3334_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-3334_ibom.html)
-### Videos
-- [Testing the first revision of the board](https://youtu.be/vjpey5T-lSU)
-- [Testing the RGB port](https://youtu.be/EB2sbTMWF-Q)
-- [Booting NitrOS 9 Ease Of Use](https://youtu.be/wSlYcxvCpys)
 ### Current status
 - [x] Ordered
 - [x] Assembled
 - [x] Tested
+### Videos
+- [Testing the first revision of the board](https://youtu.be/vjpey5T-lSU)
+- [Testing the RGB port](https://youtu.be/EB2sbTMWF-Q)
+- [Booting NitrOS 9 Ease Of Use](https://youtu.be/wSlYcxvCpys)
+
