@@ -30,7 +30,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 ### Videos
 - [Testing the first revision of the board](https://youtu.be/QcRTDDZ0i-s)
 - [Testing the second revision of the board](https://youtu.be/V18fohn3YzE)
-- [Testing the first revision of the Daiquiri board.This design has since been fixed ](https://youtu.be/-PZM2CGa1yw)
+- [Testing the first revision of the Daiquiri on this board. The Daiquiri has since been fixed ](https://youtu.be/-PZM2CGa1yw)
 
 ## 26-313xA
 - [Schematic](pdfs/26-313xA_schematic.pdf)
