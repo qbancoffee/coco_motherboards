@@ -6,6 +6,11 @@ fom your favorite PCB manufacturer.<br>
 In order to get the design files you can either use git to clone the repository or you can click on the code button above and download
 a zip file containing the projects.
 
+To use git, open a terminal and type the following.
+```bash
+git clone https://github.com/qbancoffee/coco_motherboards.git
+```
+
 # Color Computer 2
 - [26-302x](#26-302x)
 - [26-313xA](#26-313xA)
