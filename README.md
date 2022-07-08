@@ -22,6 +22,7 @@ fom your favorite PCB manufacturer.<br>
 ### Videos
 - [Testing the first revision of the board](https://youtu.be/QcRTDDZ0i-s)
 - [Testing the second revision of the board](https://youtu.be/V18fohn3YzE)
+- [Testing the first revision of the Daiquiri board.This design has since been fixed ](https://youtu.be/-PZM2CGa1yw)
 
 ## 26-313xA
 - [Schematic](pdfs/26-313xA_schematic.pdf)
@@ -32,12 +33,18 @@ fom your favorite PCB manufacturer.<br>
 - [x] Ordered
 - [ ] Assembled
 - [ ] Tested
+### Videos
+- None yet
 
 ## 26-3334
 - [Schematic](pdfs/26-3334_schematic.pdf)
 - [Board Layout](pdfs/26-3334_layout.pdf)
 - [Rendered Image](images/26-3334_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-3334_ibom.html)
+### Videos
+- [Testing the first revision of the board](https://youtu.be/vjpey5T-lSU)
+- [Testing the RGB port](https://youtu.be/EB2sbTMWF-Q)
+- [Booting NitrOS 9 Ease Of Use](https://youtu.be/wSlYcxvCpys)
 ### Current status
 - [x] Ordered
 - [x] Assembled
