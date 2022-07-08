@@ -44,7 +44,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 ### Videos
 - [Copying the board layout and original path of the taces 1](https://youtu.be/ZVgJEOnWDyY)
 - [Copying the board layout and original path of the taces 2](https://youtu.be/GyRi-DuZtJM)
-- [Checking the board design against and actual board](https://youtu.be/TTYBf1dwHVs)
+- [Checking the board design against an actual board](https://youtu.be/TTYBf1dwHVs)
 
 ## 26-3334
 - [Schematic](pdfs/26-3334_schematic.pdf)
