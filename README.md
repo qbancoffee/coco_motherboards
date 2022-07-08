@@ -9,7 +9,9 @@ This repository contains KiCAD schematics and board designs for the TRS-80 Tandy
 - [26-3334](#26-3334)
 
 ## 26-302x
-
+[Schematic](pdfs/26-302x_schematic.pdf)
 ## 26-313xA
+[Schematic](pdfs/26-313x_schematic.pdf)
 
 ## 26-3334
+[Schematic](pdfs/26-3334_schematic.pdf)
