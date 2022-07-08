@@ -3,6 +3,9 @@ This repository contains KiCAD project files that contain schematics and board d
 If you want to view and edit these KiCAD projects you'll need KiCAD 5.1.5 or higher. You can generate gerber files and order these boards
 fom your favorite PCB manufacturer.<br>
 
+In order to get the design files you can either use git to clone the repository or you can click on the code button above and download
+a zip file containing the projects.
+
 # Color Computer 2
 - [26-302x](#26-302x)
 - [26-313xA](#26-313xA)
