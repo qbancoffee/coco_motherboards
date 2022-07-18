@@ -23,7 +23,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Board Layout](pdfs/26-302x_layout.pdf)
 - [Rendered Image](images/26-302x_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-302x_ibom.html)
-- [Bill Of Materials with Digi-Key part numbers](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-302x_bill_of_materials.csv)
+- [Bill Of Materials](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-302x_bill_of_materials.csv)
 ### Current status
 - [x] Ordered
 - [x] Assembled
@@ -52,6 +52,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Board Layout](pdfs/26-3334_layout.pdf)
 - [Rendered Image](images/26-3334_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-3334_ibom.html)
+- [Bill Of Materials](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-3334_bill_of_materials.csv)
 ### Current status
 - [x] Ordered
 - [x] Assembled
