@@ -38,6 +38,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Board Layout](pdfs/26-313xA_layout.pdf)
 - [Rendered Image](images/26-313xA_rendered.png)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-313xA_ibom.html)
+- [Bill Of Materials](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-313xA_bill_of_materials.csv)
 ### Current status
 - [x] Ordered
 - [ ] Assembled
