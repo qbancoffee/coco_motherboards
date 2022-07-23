@@ -903,10 +903,10 @@ AR Path="/603CF7B8/6114C7CE" Ref="D5"  Part="1"
 F 0 "D5" V 12650 1300 50  0000 R CNN
 F 1 "1KF20-04" V 12550 1250 50  0001 R CNN
 F 2 "Diode_THT:D_A-405_P10.16mm_Horizontal" V 12550 1300 50  0001 C CNN
-F 3 "https://www.nteinc.com/specs/100to199/pdf/nte109.pdf" V 12550 1300 50  0001 C CNN
+F 3 "https://www.onsemi.com/pdf/datasheet/1n914-d.pdf" V 12550 1300 50  0001 C CNN
 F 4 "digikey" H 12550 1300 50  0001 C CNN "Vendor"
-F 5 "2368-NTE109-ND" H 12550 1300 50  0001 C CNN "Vendor part#"
-F 6 "D-GE-GEN PURP 75V" H 12550 1300 50  0001 C CNN "Manufacturer part#"
+F 5 "1N4148FS-ND" H 12550 1300 50  0001 C CNN "Vendor part#"
+F 6 "1N4148" H 12550 1300 50  0001 C CNN "Manufacturer part#"
 	1    12550 1300
 	0    -1   -1   0   
 $EndComp
@@ -1618,10 +1618,10 @@ AR Path="/603CF7B8/634A6D56" Ref="D6"  Part="1"
 F 0 "D6" V 12650 2800 50  0000 R CNN
 F 1 "1KF20-04" V 12550 2750 50  0001 R CNN
 F 2 "Diode_THT:D_A-405_P10.16mm_Horizontal" V 12550 2800 50  0001 C CNN
-F 3 "https://www.nteinc.com/specs/100to199/pdf/nte109.pdf" V 12550 2800 50  0001 C CNN
+F 3 "https://www.onsemi.com/pdf/datasheet/1n914-d.pdf" V 12550 2800 50  0001 C CNN
 F 4 "digikey" H 12550 2800 50  0001 C CNN "Vendor"
-F 5 "2368-NTE109-ND" H 12550 2800 50  0001 C CNN "Vendor part#"
-F 6 "D-GE-GEN PURP 75V" H 12550 2800 50  0001 C CNN "Manufacturer part#"
+F 5 "1N4148FS-ND" H 12550 2800 50  0001 C CNN "Vendor part#"
+F 6 "1N4148" H 12550 2800 50  0001 C CNN "Manufacturer part#"
 	1    12550 2800
 	0    -1   -1   0   
 $EndComp

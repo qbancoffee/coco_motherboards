@@ -452,8 +452,8 @@ F 3 "https://www.nteinc.com/specs/900to999/pdf/nte955.pdf" H 2950 5350 50  0001 
 F 4 "digikey" H 2100 5750 50  0001 C CNN "Vendor"
 F 5 "AE9986-ND" H 2100 5750 50  0001 C CNN "Vendor part#"
 F 6 "A 08-LC-TT" H 2100 5750 50  0001 C CNN "Manufacturer part#"
-F 7 "2368-NTE955M-ND" H 2100 5750 50  0001 C CNN "Vendor2 part#"
-F 8 "NTE955M" H 2100 5750 50  0001 C CNN "Manufacturer2 part#"
+F 7 "296-NE555P-ND" H 2100 5750 50  0001 C CNN "Vendor2 part#"
+F 8 "NE555P" H 2100 5750 50  0001 C CNN "Manufacturer2 part#"
 	1    2100 5750
 	1    0    0    -1  
 $EndComp
@@ -532,10 +532,10 @@ P 4050 5550
 F 0 "D7" V 4004 5620 50  0000 L CNN
 F 1 "1KF20-04" V 4095 5620 50  0000 L CNN
 F 2 "Diode_THT:D_A-405_P10.16mm_Horizontal" V 4050 5550 50  0001 C CNN
-F 3 "https://www.nteinc.com/specs/100to199/pdf/nte109.pdf" V 4050 5550 50  0001 C CNN
+F 3 "https://www.onsemi.com/pdf/datasheet/1n914-d.pdf" V 4050 5550 50  0001 C CNN
 F 4 "digikey" H 4050 5550 50  0001 C CNN "Vendor"
-F 5 "2368-NTE109-ND" H 4050 5550 50  0001 C CNN "Vendor part#"
-F 6 "D-GE-GEN PURP 75V" H 4050 5550 50  0001 C CNN "Manufacturer part#"
+F 5 "1N4148FS-ND" H 4050 5550 50  0001 C CNN "Vendor part#"
+F 6 "1N4148" H 4050 5550 50  0001 C CNN "Manufacturer part#"
 	1    4050 5550
 	0    1    1    0   
 $EndComp
@@ -1091,10 +1091,10 @@ P 4350 7250
 F 0 "Q2" H 4540 7296 50  0000 L CNN
 F 1 "2N3904" H 4540 7205 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4550 7350 50  0001 C CNN
-F 3 "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" H 4350 7250 50  0001 C CNN
+F 3 " https://my.centralsemi.com/datasheets/PN2221-2222A.PDF" H 4350 7250 50  0001 C CNN
 F 4 "digikey" H 4350 7250 50  0001 C CNN "Vendor"
-F 5 "2368-2N3904-ND" H 4350 7250 50  0001 C CNN "Vendor part#"
-F 6 "2N3904" H 4350 7250 50  0001 C CNN "Manufacturer part#"
+F 5 "1514-PN2222APBFREE-ND" H 4350 7250 50  0001 C CNN "Vendor part#"
+F 6 "PN2222A PBFREE" H 4350 7250 50  0001 C CNN "Manufacturer part#"
 	1    4350 7250
 	1    0    0    -1  
 $EndComp
