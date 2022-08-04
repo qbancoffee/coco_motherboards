@@ -41,12 +41,13 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Bill Of Materials](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-313xA_bill_of_materials.csv)
 ### Current status
 - [x] Ordered
-- [ ] Assembled
-- [ ] Tested
+- [x] Assembled
+- [x] Tested
 ### Videos
 - [Copying the board layout and original path of the taces 1](https://youtu.be/ZVgJEOnWDyY)
 - [Copying the board layout and original path of the taces 2](https://youtu.be/GyRi-DuZtJM)
 - [Checking the board design against an actual board](https://youtu.be/TTYBf1dwHVs)
+- [Testing the assembled board](https://youtu.be/1itwh79Q89k)
 
 ## 26-3334
 - [Schematic](pdfs/26-3334_schematic.pdf)
