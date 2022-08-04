@@ -255,10 +255,10 @@ AR Path="/602A51A8/602D08FF" Ref="C37"  Part="1"
 F 0 "C37" H 5800 4800 50  0000 C CNN
 F 1 ".1uF" H 5800 4650 50  0000 C CNN
 F 2 "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm" H 6000 4750 50  0001 C CNN
-F 3 " https://product.tdk.com/info/en/catalog/datasheets/leadmlcc_halogenfree_fg_en.pdf?ref_disty=digikey" H 6000 4750 50  0001 C CNN
+F 3 " https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RDE_X7R_250V-1kV_E.pdf" H 6000 4750 50  0001 C CNN
 F 4 "digikey" V 6000 4750 50  0001 C CNN "Vendor"
-F 5 "445-173474-1-ND" V 6000 4750 50  0001 C CNN "Vendor part#"
-F 6 "FG28C0G1H103JNT06" V 6000 4750 50  0001 C CNN "Manufacturer part#"
+F 5 "490-8814-ND" V 6000 4750 50  0001 C CNN "Vendor part#"
+F 6 "RDER71H104K0K1H03B" V 6000 4750 50  0001 C CNN "Manufacturer part#"
 	1    6000 4750
 	0    1    1    0   
 $EndComp
@@ -430,10 +430,10 @@ P 4800 6650
 F 0 "C7" V 4571 6650 50  0000 C CNN
 F 1 ".1uF" V 4662 6650 50  0000 C CNN
 F 2 "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm" H 4800 6650 50  0001 C CNN
-F 3 " https://product.tdk.com/info/en/catalog/datasheets/leadmlcc_halogenfree_fg_en.pdf?ref_disty=digikey" H 4800 6650 50  0001 C CNN
+F 3 " https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RDE_X7R_250V-1kV_E.pdf" H 4800 6650 50  0001 C CNN
 F 4 "digikey" V 4800 6650 50  0001 C CNN "Vendor"
-F 5 "445-173474-1-ND" V 4800 6650 50  0001 C CNN "Vendor part#"
-F 6 "FG28C0G1H103JNT06" V 4800 6650 50  0001 C CNN "Manufacturer part#"
+F 5 "490-8814-ND" V 4800 6650 50  0001 C CNN "Vendor part#"
+F 6 "RDER71H104K0K1H03B" V 4800 6650 50  0001 C CNN "Manufacturer part#"
 	1    4800 6650
 	1    0    0    -1  
 $EndComp
@@ -612,10 +612,10 @@ AR Path="/602A51A8/62968CA5" Ref="C39"  Part="1"
 F 0 "C39" H 2400 4400 50  0000 C CNN
 F 1 ".1uF" H 2400 4250 50  0000 C CNN
 F 2 "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm" H 2600 4350 50  0001 C CNN
-F 3 " https://product.tdk.com/info/en/catalog/datasheets/leadmlcc_halogenfree_fg_en.pdf?ref_disty=digikey" H 2600 4350 50  0001 C CNN
+F 3 " https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RDE_X7R_250V-1kV_E.pdf" H 2600 4350 50  0001 C CNN
 F 4 "digikey" V 2600 4350 50  0001 C CNN "Vendor"
-F 5 "445-173474-1-ND" V 2600 4350 50  0001 C CNN "Vendor part#"
-F 6 "FG28C0G1H103JNT06" V 2600 4350 50  0001 C CNN "Manufacturer part#"
+F 5 "490-8814-ND" V 2600 4350 50  0001 C CNN "Vendor part#"
+F 6 "RDER71H104K0K1H03B" V 2600 4350 50  0001 C CNN "Manufacturer part#"
 	1    2600 4350
 	1    0    0    -1  
 $EndComp

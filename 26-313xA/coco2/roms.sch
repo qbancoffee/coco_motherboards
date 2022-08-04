@@ -102,10 +102,10 @@ AR Path="/60308A73/60347FE8" Ref="C4"  Part="1"
 F 0 "C4" V 7900 2450 50  0000 C CNN
 F 1 ".1uF" V 7650 2450 50  0000 C CNN
 F 2 "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm" H 7800 2450 50  0001 C CNN
-F 3 " https://product.tdk.com/info/en/catalog/datasheets/leadmlcc_halogenfree_fg_en.pdf?ref_disty=digikey" H 7800 2450 50  0001 C CNN
+F 3 " https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RDE_X7R_250V-1kV_E.pdf" H 7800 2450 50  0001 C CNN
 F 4 "digikey" V 7800 2450 50  0001 C CNN "Vendor"
-F 5 "445-173474-1-ND" V 7800 2450 50  0001 C CNN "Vendor part#"
-F 6 "FG28C0G1H103JNT06" H 7800 2450 50  0001 C CNN "Manufacturer part#"
+F 5 "490-8814-ND" V 7800 2450 50  0001 C CNN "Vendor part#"
+F 6 "RDER71H104K0K1H03B" H 7800 2450 50  0001 C CNN "Manufacturer part#"
 	1    7800 2450
 	0    -1   -1   0   
 $EndComp
