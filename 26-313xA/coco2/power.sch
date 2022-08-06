@@ -20,10 +20,10 @@ P 5000 1700
 F 0 "A3" V 4950 1650 50  0000 L CNN
 F 1 "A3" V 4800 1650 50  0000 L CNN
 F 2 "coco2:power_connector_post" H 5000 1700 50  0001 C CNN
-F 3 "https://www.mill-max.com/catalog/download/2017-11%3A223.pdf" H 5000 1700 50  0001 C CNN
+F 3 "https://www.mill-max.com/catalog/download/2020-01%3A221.1.pdf" H 5000 1700 50  0001 C CNN
 F 4 "digikey" V 5000 1700 50  0001 C CNN "Vendor"
-F 5 "ED1085-ND" V 5000 1700 50  0001 C CNN "Vendor part#"
-F 6 "3231-4-00-15-00-00-08-0" V 5000 1700 50  0001 C CNN "Manufacturer part#"
+F 5 "ED11524-ND" V 5000 1700 50  0001 C CNN "Vendor part#"
+F 6 "6331-0-00-15-00-00-08-0" V 5000 1700 50  0001 C CNN "Manufacturer part#"
 	1    5000 1700
 	0    1    1    0   
 $EndComp
@@ -34,10 +34,10 @@ P 4800 1700
 F 0 "A1" V 4750 1650 50  0000 L CNN
 F 1 "A1" V 4600 1650 50  0000 L CNN
 F 2 "coco2:power_connector_post" H 4800 1700 50  0001 C CNN
-F 3 "https://www.mill-max.com/catalog/download/2017-11%3A223.pdf" H 4800 1700 50  0001 C CNN
+F 3 "https://www.mill-max.com/catalog/download/2020-01%3A221.1.pdf" H 4800 1700 50  0001 C CNN
 F 4 "digikey" V 4800 1700 50  0001 C CNN "Vendor"
-F 5 "ED1085-ND" V 4800 1700 50  0001 C CNN "Vendor part#"
-F 6 "3231-4-00-15-00-00-08-0" V 4800 1700 50  0001 C CNN "Manufacturer part#"
+F 5 "ED11524-ND" V 4800 1700 50  0001 C CNN "Vendor part#"
+F 6 "6331-0-00-15-00-00-08-0" V 4800 1700 50  0001 C CNN "Manufacturer part#"
 	1    4800 1700
 	0    1    1    0   
 $EndComp
@@ -48,10 +48,10 @@ P 5200 1700
 F 0 "A2" V 5150 1650 50  0000 L CNN
 F 1 "A2" V 5000 1650 50  0000 L CNN
 F 2 "coco2:power_connector_post" H 5200 1700 50  0001 C CNN
-F 3 "https://www.mill-max.com/catalog/download/2017-11%3A223.pdf" H 5200 1700 50  0001 C CNN
+F 3 "https://www.mill-max.com/catalog/download/2020-01%3A221.1.pdf" H 5200 1700 50  0001 C CNN
 F 4 "digikey" V 5200 1700 50  0001 C CNN "Vendor"
-F 5 "ED1085-ND" V 5200 1700 50  0001 C CNN "Vendor part#"
-F 6 "3231-4-00-15-00-00-08-0" V 5200 1700 50  0001 C CNN "Manufacturer part#"
+F 5 "ED11524-ND" V 5200 1700 50  0001 C CNN "Vendor part#"
+F 6 "6331-0-00-15-00-00-08-0" V 5200 1700 50  0001 C CNN "Manufacturer part#"
 	1    5200 1700
 	0    1    1    0   
 $EndComp

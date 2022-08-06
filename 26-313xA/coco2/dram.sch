@@ -574,8 +574,6 @@ F 3 "~" H 3200 5900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4250 5900 4250 6050
-Wire Wire Line
 	3850 6400 3200 6400
 Wire Wire Line
 	3200 6400 3200 5900

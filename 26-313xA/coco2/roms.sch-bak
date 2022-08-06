@@ -335,7 +335,6 @@ Wire Wire Line
 	5450 4500 6850 4500
 Wire Bus Line
 	6300 1650 6550 1650
-NoConn ~ 6850 4600
 Entry Wire Line
 	6650 2250 6550 2150
 Wire Wire Line
@@ -423,6 +422,50 @@ Text Label 2500 5000 0    50   ~ 0
 ~CE_~A11
 Text HLabel 2200 4700 0    50   Input ~ 0
 128K_ROM_~CE
+Wire Wire Line
+	6850 4600 5550 4600
+$Comp
+L power:GNDS #PWR?
+U 1 1 62EFE478
+P 6400 5150
+AR Path="/602A51A8/62EFE478" Ref="#PWR?"  Part="1" 
+AR Path="/60308A73/62EFE478" Ref="#PWR03"  Part="1" 
+F 0 "#PWR03" H 6400 4900 50  0001 C CNN
+F 1 "GNDS" H 6405 4977 50  0000 C CNN
+F 2 "" H 6400 5150 50  0001 C CNN
+F 3 "" H 6400 5150 50  0001 C CNN
+	1    6400 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 5000 6400 5150
+Text Notes 4800 5850 0    50   ~ 0
+J8 was added to either leave this\npin floating or to set it  low\nin order to use a 256kb EEPROM\nas well.
+Wire Notes Line
+	4650 5450 6300 5450
+Wire Notes Line
+	6300 5450 6300 5950
+Wire Notes Line
+	6300 5950 4650 5950
+Wire Notes Line
+	4650 5950 4650 5450
+$Comp
+L Jumper:SolderJumper_2_Open JP8
+U 1 1 62F1741F
+P 5800 5000
+F 0 "JP8" H 5800 5113 50  0000 C CNN
+F 1 "SolderJumper_2_Open" H 5800 5114 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5800 5000 50  0001 C CNN
+F 3 "~" H 5800 5000 50  0001 C CNN
+	1    5800 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5950 5000 6400 5000
+Wire Wire Line
+	5550 5000 5650 5000
+Wire Wire Line
+	5550 4600 5550 5000
 Wire Bus Line
 	8050 3100 8050 5400
 Wire Bus Line

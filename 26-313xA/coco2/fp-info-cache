@@ -1,162 +1,148 @@
-37944801041470
-coco2
-B3F3152
-
-
+33626834682627
+Jumper
+SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
+solder jumper open
 0
-4
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+solder jumper open
+0
 3
-coco2
-CUI_SDS-40J
-
-
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+solder jumper open
 0
-12
-6
-coco2
-CUI_SDS-50J
-
-
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+solder jumper open
 0
-9
-7
-coco2
-CUI_SDS-60J
-
-
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+solder jumper open
 0
-10
-8
-coco2
-C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
-C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*7.2mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
-C Rect series Radial pin pitch 5.00mm  length 7.2mm width 7.2mm Capacitor
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+solder jumper open
 0
-2
-2
-coco2
-CoCo_2_3134A_RF_Modulator
-
-
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+solder jumper open
 0
-12
-9
-coco2
-EBC20DRAS
-
-
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+solder jumper open
 0
-42
-40
-coco2
-F2UEE
-
-
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+solder jumper open
 0
-6
-6
-coco2
-HB1-DC5V-H62_W7.62mm
-16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
 0
 5
-5
-coco2
-MFS201N-16-Z
-
-
-0
-8
-8
-coco2
-OSHW-Logo2_7.3x6mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-coco2
-PinSocket_1x12_P2.54mm_for_memory_board_adapter
-Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x12 2.54mm single row
-0
-12
-12
-coco2
-RELAY_J0971CS5VDC.45
-
-
+3
+Jumper
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
 0
 5
-5
-coco2
-channel_switch
-
-
-0
-10
-10
-coco2
-coco2_3134A_layout
-
-
-0
-0
-0
-coco2
-coco2_3134A_layout_top
-
-
-0
-0
-0
-coco2
-coco2_bottom_routs
-
-
-0
-0
-0
-coco2
-coco2_layout
-
-
-0
-0
-0
-coco2
-coco2_vertical_rf_sheild
-
-
-0
-11
-8
-coco2
-coco2_vertical_rf_sheild_2
-
-
-0
-13
-8
-coco2
-ferrite_bead
-
-
-0
-2
-2
-coco2
-osh_logo
-
-
-0
-0
-0
-coco2
-power_connector_post
-
-
-0
-1
-1
+3
