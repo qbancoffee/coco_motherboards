@@ -14,6 +14,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 # Color Computer 2
 - [26-302x](#26-302x)
 - [26-313xA](#26-313xA)
+- [26-313xB](#26-313xB)
 
 # Color Computer 3
 - [26-3334](#26-3334)
@@ -49,6 +50,18 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Checking the board design against an actual board](https://youtu.be/TTYBf1dwHVs)
 - [Testing the assembled board](https://youtu.be/1itwh79Q89k)
 
+## 26-313xB
+- [Schematic](pdfs/26-313xB_schematic.pdf)
+- [Board Layout](pdfs/26-313xB_layout.pdf)
+- [Rendered Image](images/26-313xB_rendered.png)
+- [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-313xB_ibom.html)
+- [Bill Of Materials](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-313xB_bill_of_materials.csv)
+### Current status
+- [] Ordered
+- [] Assembled
+- [] Tested
+### Videos
+- [NONE]()
 ## 26-3334
 - [Schematic](pdfs/26-3334_schematic.pdf)
 - [Board Layout](pdfs/26-3334_layout.pdf)
