@@ -57,7 +57,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/qbancoffee/coco_motherboards/blob/main/html/26-313xB_ibom.html)
 - [Bill Of Materials](https://github.com/qbancoffee/coco_motherboards/blob/main/bom/26-313xB_bill_of_materials.csv)
 ### Current status
-- [] Ordered
+- [x] Ordered
 - [] Assembled
 - [] Tested
 ### Videos
