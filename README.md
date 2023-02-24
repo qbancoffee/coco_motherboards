@@ -59,9 +59,9 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 ### Current status
 - [x] Ordered
 - [x] Assembled
-- [] Tested
+- [x] Tested/works but draws too much current and I don't know why yet.
 ### Videos
-- [NONE]()
+- [A timelapse of the assembly](https://youtu.be/u0PwnJCS3qc)
 ## 26-3334
 - [Schematic](pdfs/26-3334_schematic.pdf)
 - [Board Layout](pdfs/26-3334_layout.pdf)
