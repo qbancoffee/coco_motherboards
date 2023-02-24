@@ -45,8 +45,8 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [x] Assembled
 - [x] Tested
 ### Videos
-- [Copying the board layout and original path of the taces 1](https://youtu.be/ZVgJEOnWDyY)
-- [Copying the board layout and original path of the taces 2](https://youtu.be/GyRi-DuZtJM)
+- [Copying the board layout and original path of the traces 1](https://youtu.be/ZVgJEOnWDyY)
+- [Copying the board layout and original path of the traces 2](https://youtu.be/GyRi-DuZtJM)
 - [Checking the board design against an actual board](https://youtu.be/TTYBf1dwHVs)
 - [Testing the assembled board](https://youtu.be/1itwh79Q89k)
 
