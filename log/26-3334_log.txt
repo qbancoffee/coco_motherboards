@@ -15,7 +15,7 @@ Revision 1.2.0
  which is a net that provides +5V from one end of a ferrite bead that is
  fed from +5V.
  The original schematic found in the service manual as well as the 
- cleaned up schematic made by Sopko shows pin 39 being connected to 
+ cleaned up schematic made by Sopko shows pin 39 being connected 
  directly to the +5V rail. This is not a big deal but nevertheless, I've 
  updated this schematic to reflect how the CoCo 3 board actually is.
     
