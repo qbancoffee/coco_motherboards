@@ -1,6 +1,6 @@
 # CoCo Motherboards
 This repository contains KiCAD project files that contain schematics and board designs for the TRS-80 Tandy Color Computers that I have recreated.
-If you want to view and edit these KiCAD projects you'll need KiCAD 5.1.5 or higher. For the 26-3134B CoCo 2 you'll need KiCAD 6 pr greater.
+If you want to view and edit these KiCAD projects you'll need KiCAD 7 or higher.
 You can generate gerber files and order these boards fom your favorite PCB manufacturer.<br>
 
 In order to get the design files you can either use git to clone the repository or you can click on the code button above and download
