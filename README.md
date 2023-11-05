@@ -15,9 +15,11 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [26-302x](#26-302x)
 - [26-313xA](#26-313xA)
 - [26-313xB](#26-313xB) ( requires KiCAD 6 or greater)
+---
 
 # Color Computer 3
 - [26-3334](#26-3334)
+---
 
 ## 26-302x
 - [Schematic](pdfs/26-302x_schematic.pdf)
@@ -33,6 +35,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Testing the first revision of the board](https://youtu.be/QcRTDDZ0i-s)
 - [Testing the second revision of the board](https://youtu.be/V18fohn3YzE)
 - [Testing the first revision of the Daiquiri on this board. The Daiquiri has since been fixed ](https://youtu.be/-PZM2CGa1yw)
+---
 
 ## 26-313xA
 - [Schematic](pdfs/26-313xA_schematic.pdf)
@@ -49,6 +52,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Copying the board layout and original path of the traces 2](https://youtu.be/GyRi-DuZtJM)
 - [Checking the board design against an actual board](https://youtu.be/TTYBf1dwHVs)
 - [Testing the assembled board](https://youtu.be/1itwh79Q89k)
+---
 
 ## 26-313xB
 - [Schematic](pdfs/26-313xB_schematic.pdf)
@@ -62,6 +66,8 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [x] Tested/works but draws too much current and I don't know why yet.
 ### Videos
 - [A timelapse of the assembly](https://youtu.be/u0PwnJCS3qc)
+---
+
 ## 26-3334
 - [Changes](log/26-3334_log.txt)
 - [Schematic](pdfs/26-3334_schematic.pdf)
@@ -77,4 +83,5 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Testing the first revision of the board](https://youtu.be/vjpey5T-lSU)
 - [Testing the RGB port](https://youtu.be/EB2sbTMWF-Q)
 - [Booting NitrOS 9 Ease Of Use](https://youtu.be/wSlYcxvCpys)
+---
 
