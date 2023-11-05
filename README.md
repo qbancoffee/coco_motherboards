@@ -63,6 +63,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 ### Videos
 - [A timelapse of the assembly](https://youtu.be/u0PwnJCS3qc)
 ## 26-3334
+- [Changes](log/26-3334_log.txt)
 - [Schematic](pdfs/26-3334_schematic.pdf)
 - [Board Layout](pdfs/26-3334_layout.pdf)
 - [Rendered Image](images/26-3334_rendered.png)
