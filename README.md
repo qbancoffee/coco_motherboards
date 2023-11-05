@@ -15,7 +15,7 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 # Color Computer 2
 - [26-302x](#26-302x)
 - [26-313xA](#26-313xA)
-- [26-313xB](#26-313xB) ( requires KiCAD 6 or greater)
+- [26-313xB](#26-313xB)
 ---
 
 # Color Computer 3
