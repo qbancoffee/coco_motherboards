@@ -7,7 +7,7 @@ Revision 1.2.0
  I found that some of the components although logically correct in how 
  they were connected, were not connected how they are on an original
  board. For example, the connections to the resistor networks from
- other components did not follow the order found in the original board.
+ other components did not follow the order found on the original board.
  This is not a logical problem because all of the components are still
  connected to a resistor of the same value.
  
