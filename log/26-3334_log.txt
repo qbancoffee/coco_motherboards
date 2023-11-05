@@ -1,0 +1,23 @@
+2023/11/05
+Revision 1.2.0
+
+-Modified the CoCo 3 board layout to better match the original.
+
+-Routed the CoCo 3 board to better match original routing. While routing
+ I found that some of the components although logically correct in how 
+ they were connected, were not connected how they are on an original
+ board. For example, the connections to the resistor networks from
+ other components did not follow the order found in the original board.
+ This is not a logical problem because all of the components are still
+ connected to a resistor of the same value.
+ 
+-On an original CoCo 3 board, pin 39 of the GIME is connected to VCC1
+ which is a net that provides +5V from one end of a ferrite bead that is
+ fed from +5V.
+ The original schematic found in the service manual as well as the 
+ cleaned up schematic made by Sopko shows pin 39 being connected to 
+ directly to the +5V rail. This is not a big deal but nevertheless, I've 
+ updated this schematic to reflect how the CoCo 3 board actually is.
+    
+-The BOM, IBOM, rendered image and schematic have all been updated.
+-this version of the project now requires KiCAD 7 or above.
