@@ -10,6 +10,7 @@ To use git, open a terminal and type the following.
 ```bash
 git clone https://github.com/qbancoffee/coco_motherboards.git
 ```
+---
 
 # Color Computer 2
 - [26-302x](#26-302x)
