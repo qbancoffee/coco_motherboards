@@ -84,7 +84,8 @@ git clone https://github.com/qbancoffee/coco_motherboards.git
 - [Testing the first revision of the board](https://youtu.be/vjpey5T-lSU)
 - [Testing the RGB port](https://youtu.be/EB2sbTMWF-Q)
 - [Booting NitrOS 9 Ease Of Use](https://youtu.be/wSlYcxvCpys)
-- [Live build of Rev 1.0.1](https://www.youtube.com/live/8h18PMZnpsQ?si=pRSccAcrxts3vaQu)
+- [Live build of Rev 1.1.0](https://www.youtube.com/live/8h18PMZnpsQ?si=pRSccAcrxts3vaQu)
+- [Live build of Rev 1.1.0 part two it's alive!](https://www.youtube.com/live/c8nBd60M5xo?si=5kv46XFEP1WWD7_H)
 - [Rev 1.2.0 test fit](https://youtube.com/shorts/IoNqxNSzjd0)
 ---
 
