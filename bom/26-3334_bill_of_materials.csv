@@ -1,6 +1,5 @@
 Qty,Reference(s),Value,Manufacturer part#,Vendor,Vendor 2nd part#,Vendor part#,Description 2nd part,MPN,Manufacturer 2nd part#
-24,"C1, C4, C6, C7, C8, C12, C13, C14, C26, C28, C30, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C50, C51",.1uF,	
-RDER71H104K0M1H03A,digikey,,490-9144-1-ND,,,
+24,"C1, C4, C6, C7, C8, C12, C13, C14, C26, C28, C30, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C50, C51",.1uF,RDER71H104K0M1H03A,digikey,,490-9144-1-ND,,,
 4,"C2, C55, C56, C67",10uF 25v,UPW1E100MDD,digikey,,493-1809-ND,,,
 1,C3,1uF 50V,515D105M050JA6AE3,digikey,,718-2229-ND,,,
 3,"C5, C52, C53",.033uF,C410C333K5R5TA7200,digikey,,399-4470-1-ND,,,
